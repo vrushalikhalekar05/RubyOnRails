@@ -1,0 +1,16 @@
+bundle install----it installs the all gem inside the gemfile.
+
+seeds.rb--this is where we can generate data to put in our database
+
+important
+https://medium.com/the-era-of-apis/how-to-use-an-api-with-ruby-on-rails-beginners-guide-7e4595fcc9c9
+
+for table.
+
+https://stackoverflow.com/questions/46627402/make-entire-table-editable-and-saving-the-changes-on-click
+
+
+https://guides.rubyonrails.org/form_helpers.html
+
+http authentication.
+https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project
